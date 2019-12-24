@@ -1,4 +1,4 @@
-(![](https://img.shields.io/pypi/v/foliantcontrib.testcoverage.svg))[https://pypi.org/project/foliantcontrib.testcoverage/]
+[![](https://img.shields.io/pypi/v/foliantcontrib.testcoverage.svg)](https://pypi.org/project/foliantcontrib.testcoverage/)
 
 # TestCoverage
 
