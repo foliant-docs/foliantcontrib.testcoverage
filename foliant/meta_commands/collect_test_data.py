@@ -6,7 +6,7 @@ from pathlib import Path
 
 
 from foliant.meta_commands.base import BaseMetaCommand
-from foliant.meta_commands.generate.generate import load_meta
+from foliant.meta.generate import load_meta
 from foliant.preprocessors.testrail import Preprocessor as TestRail
 
 
